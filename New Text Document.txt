@@ -1,4 +1,1 @@
-hello 
-my time is 
-time just ended
-hello feature branch file
+hello goodbye from the merge of update feature and main
