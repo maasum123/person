@@ -1,4 +1,1 @@
-hello 
-my time is 
-time just ended
-goodbye my friend world main branch
+hello goodbye from the merge of update feature and main
